@@ -1,35 +1,22 @@
-# Hi, I'm Raghav Verma 👋
+# Raghav Verma
 
-🎓 MCA Student | 💻 Frontend & Full-Stack Developer | 🌐 Open Source Enthusiast
+MCA candidate focused on frontend engineering and full-stack fundamentals. Work centers on building predictable interfaces, clean abstractions, and maintainable systems.
 
-I'm passionate about building impactful, user-centric web applications with **React**, **Node.js**, and **Python**.
+## Core Competencies
+- React, TypeScript, component architecture, performance tuning  
+- Node.js, Express, API structure, MongoDB  
+- Python for automation and tooling  
+- UI systems: design tokens, accessibility, interaction patterns  
+- Build and deployment workflows: Vite, CI/CD foundations
 
-![Profile Views](https://komarev.com/ghpvc/?username=Raghaverma&label=Profile%20views&color=0e75b6&style=flat)
+## Current Focus
+- Developing reusable UI primitives  
+- Strengthening backend reliability and observability  
+- Advancing security fundamentals aligned with NIST/ISO practices
 
----
+## Tools & Technologies
+JavaScript • TypeScript • React • Node.js • Python • MongoDB • Tailwind CSS
 
-## 🌟 Featured Projects
-- 🚀 **[College Companion Dashboard](https://github.com/Raghaverma/College-Companion)**: A responsive dashboard for student productivity.
-- 💸 **[Expense Tracker](https://github.com/Raghaverma/Expense-Tracker)**: Track and visualize your expenses seamlessly.
-- 🩺 **[Medical 3D Viewer (In Progress)](https://github.com/Raghaverma/Medical3DViewer)**: AI-integrated medical 3D viewer for thyroid abnormalities.
-- 🌐 **[Portfolio](https://github.com/Raghaverma/Portfolio)**: My personal portfolio and showcase.
-
----
-
-## 🛠️ Tech & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-
----
-
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 [raghav.verma.work@gmail.com](mailto:raghav.verma.work@gmail.com)
-
-> "Transforming ideas into delightful user experiences."
+## Contact
+**LinkedIn:** https://www.linkedin.com/in/your-profile  
+**Email:** raghav.verma.work@gmail.com
