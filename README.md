@@ -18,5 +18,5 @@ MCA candidate focused on frontend engineering and full-stack fundamentals. Work 
 JavaScript • TypeScript • React • Node.js • Python • MongoDB • Tailwind CSS
 
 ## Contact
-**LinkedIn:** https://www.linkedin.com/in/your-profile  
+**LinkedIn:** https://www.linkedin.com/in/raghaverma/
 **Email:** raghav.verma.work@gmail.com
