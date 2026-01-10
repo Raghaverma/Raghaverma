@@ -15,10 +15,7 @@ MCA candidate focused on frontend engineering with strong full-stack fundamental
 - Strengthening backend reliability, logging, and observability  
 - Advancing security fundamentals aligned with NIST and ISO practices  
 
-## Live Signals
-- Visitor counter with dynamic updates  
-- Count-up animation on change  
-- Graceful fallback on network failure  
+![Visitors](https://komarev.com/ghpvc/?username=raghavverma&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## Tools & Technologies
 JavaScript · TypeScript · React · Node.js· MongoDB · Tailwind CSS  
