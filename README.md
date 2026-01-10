@@ -1,5 +1,7 @@
 # Raghav Verma
 
+![Visitors](https://komarev.com/ghpvc/?username=raghavverma&label=Profile%20Views&color=0e75b6&style=flat)
+
 MCA candidate focused on frontend engineering with strong full-stack fundamentals. Work centers on predictable interfaces, clean abstractions, and maintainable systems, with deliberate emphasis on microinteractions that improve feedback, clarity, and user trust.
 
 ## Core Expertise
@@ -14,8 +16,6 @@ MCA candidate focused on frontend engineering with strong full-stack fundamental
 - Implementing meaningful microinteractions for loading, errors, and state changes  
 - Strengthening backend reliability, logging, and observability  
 - Advancing security fundamentals aligned with NIST and ISO practices  
-
-![Visitors](https://komarev.com/ghpvc/?username=raghavverma&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## Tools & Technologies
 JavaScript · TypeScript · React · Node.js· MongoDB · Tailwind CSS  
