@@ -1,6 +1,8 @@
 # Raghav Verma
 
-![Visitors](https://komarev.com/ghpvc/?username=raghavverma&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghavverma&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 MCA candidate focused on frontend engineering with strong full-stack fundamentals. Work centers on predictable interfaces, clean abstractions, and maintainable systems, with deliberate emphasis on microinteractions that improve feedback, clarity, and user trust.
 
