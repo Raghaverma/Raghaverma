@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghaverma)
 [![Email](https://img.shields.io/badge/Email-944a32?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav.verma.work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Raghaverma&label=Views&color=944a32&style=flat-square)](https://github.com/Raghaverma)
+[![GitSignal](http://localhost:3000/badge/)](http://localhost:3000)
 
 </div>
 
