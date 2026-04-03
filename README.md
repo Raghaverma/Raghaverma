@@ -7,8 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-944a32?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav.verma.work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Raghaverma&label=Views&color=944a32&style=flat-square)](https://github.com/Raghaverma)
 
-</div>
-
 ---
 
 MCA candidate finishing up at VIPS, GGSIPU. Currently building at **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas. Joined after independently building work close to their core product. That's how I prefer to operate: build first, then talk.
@@ -60,6 +58,7 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 </tr>
 </table>
 
+</div>
 
 ## GitHub Stats
 
