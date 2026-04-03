@@ -1,13 +1,13 @@
 <div align="center">
 
-```
-  ██████╗  █████╗  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
-  ██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗██║   ██║
-  ██████╔╝███████║██║  ███╗███████║███████║██║   ██║
-  ██╔══██╗██╔══██║██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝
-  ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
-```
+██████╗  █████╗  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗██║   ██║
+██████╔╝███████║██║  ███╗███████║███████║██║   ██║
+██╔══██╗██╔══██║██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝
+██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
+
+
 
 **Full-Stack Developer · New Delhi, India**
 
@@ -56,8 +56,8 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Raghaverma&show_icons=true&hide_border=true&title_color=944a32&icon_color=944a32&text_color=5c605d&bg_color=faf9f7&hide=prs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghaverma&layout=compact&hide_border=true&title_color=944a32&text_color=5c605d&bg_color=faf9f7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghaverma&theme=github" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghaverma&theme=github" height="160" />
 
 </div>
 
