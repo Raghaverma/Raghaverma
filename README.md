@@ -1,15 +1,6 @@
 <div align="center">
 
-██████╗  █████╗  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗██║   ██║
-██████╔╝███████║██║  ███╗███████║███████║██║   ██║
-██╔══██╗██╔══██║██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝
-██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
-
-
-
-**Full-Stack Developer · New Delhi, India**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=200&section=header&text=RAGHAV&fontSize=90&fontColor=faf9f7&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20New%20Delhi%2C%20India&descAlignY=65&descSize=18" />
 
 [![Portfolio](https://img.shields.io/badge/raghav--verma.com-2f3331?style=flat-square&logoColor=white)](https://raghav-verma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghaverma)
@@ -49,6 +40,24 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+**CLI & Systems**
+- Rust · Cargo · Tokio
+- Python CLI · Typer · argparse
+- Shell scripting · Unix tooling
+
+</td>
+<td valign="top" width="50%">
+
+**Tooling & Workflow**
+- Git · GitHub Actions
+- Neovim · VS Code
+- Linux · macOS
+
+</td>
+</tr>
 </table>
 
 
@@ -66,3 +75,5 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 <div align="center">
 <sub>Open for full-time roles and meaningful collaborations — <a href="https://raghav-verma.com/contact">let's talk</a></sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=100&section=footer" />
