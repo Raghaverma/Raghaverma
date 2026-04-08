@@ -9,8 +9,7 @@
 
 ---
 
-MCA candidate finishing up at VIPS, GGSIPU. Currently building at **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas. Joined after independently building work close to their core product. That's how I prefer to operate: build first, then talk.
-
+MCA candidate finishing up at VIPS, GGSIPU. Currently building at **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas.
 Work centers on predictable interfaces, clean abstractions, and systems that hold up under pressure — with deliberate attention to microinteractions that improve feedback, clarity, and user trust.
 
 ---
