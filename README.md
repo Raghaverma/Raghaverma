@@ -9,7 +9,7 @@
 
 ---
 
-MCA candidate finishing up at VIPS, GGSIPU. Currently building at **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas.
+MCA candidate finishing up at VIPS, GGSIPU. Currently building **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas — and **[MonoRoom](https://github.com/Raghaverma/MonoRoom)** — an iOS app that derives metric room dimensions from a single monocular video walkthrough.
 Work centers on predictable interfaces, clean abstractions, and systems that hold up under pressure — with deliberate attention to microinteractions that improve feedback, clarity, and user trust.
 
 ---
@@ -40,18 +40,20 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 <tr>
 <td valign="top" width="50%">
 
-**CLI & Systems**
-- Rust · Cargo · Tokio
-- Python CLI · Typer · argparse
-- Shell scripting · Unix tooling
+**iOS & Mobile**
+- Swift · SwiftUI · SwiftData
+- ActivityKit · WidgetKit
+- SceneKit · ARKit
+- AVFoundation · CoreML
 
 </td>
 <td valign="top" width="50%">
 
-**Tooling & Workflow**
+**CLI, Systems & Tooling**
+- Rust · Cargo · Tokio
+- Python CLI · Typer · argparse
 - Git · GitHub Actions
-- Neovim · VS Code
-- Linux · macOS
+- Neovim · VS Code · Linux · macOS
 
 </td>
 </tr>
