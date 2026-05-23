@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Raghav+Verma&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Engineer+%C2%B7+Computer+Vision+%C2%B7+Systems+Infrastructure&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=200&section=header&text=Raghav+Verma&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Engineer+%C2%B7+Computer+Vision+%C2%B7+Systems+Infrastructure&descAlignY=60&descSize=16" />
 
 <a href="https://raghav-verma.com">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
