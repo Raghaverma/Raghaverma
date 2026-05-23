@@ -1,59 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=200&section=header&text=RAGHAV&fontSize=90&fontColor=faf9f7&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20New%20Delhi%2C%20India&descAlignY=65&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32height=240&section=header&text=RAGHAV%20VERMA&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=18" />
 
-[![Portfolio](https://img.shields.io/badge/raghav--verma.com-2f3331?style=flat-square&logoColor=white)](https://raghav-verma.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghaverma)
-[![Email](https://img.shields.io/badge/Email-944a32?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav.verma.work@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Raghaverma&label=Views&color=944a32&style=flat-square)](https://github.com/Raghaverma)
+<a href="https://raghav-verma.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/raghaverma">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:raghav.verma.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Raghaverma">
+  <img src="https://img.shields.io/github/followers/Raghaverma?style=for-the-badge&color=18181b&labelColor=18181b" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=3000&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems+that+survive+real-world+usage;Full-stack+engineering+%C2%B7+Computer+Vision+%C2%B7+Infrastructure;Focused+on+predictable+interfaces+and+high-trust+UX" />
+
+</div>
 
 ---
 
-MCA candidate finishing up at VIPS, GGSIPU. Currently building **[khel.ai](https://khel.ai)** — an AI-powered DRS system for box cricket arenas — and **[MonoRoom](https://github.com/Raghaverma/MonoRoom)** — an iOS app that derives metric room dimensions from a single monocular video walkthrough.
-Work centers on predictable interfaces, clean abstractions, and systems that hold up under pressure — with deliberate attention to microinteractions that improve feedback, clarity, and user trust.
+## About
+
+Recently completed MCA at **VIPS, GGSIPU** with a focus on full-stack systems, computer vision, and developer tooling.
+
+Currently building:
+
+- **[khel.ai](https://khel.ai)**  
+  AI-powered DRS infrastructure for box cricket arenas using real-time vision pipelines, event analysis, and low-latency feedback systems.
+
+- Internal automation and verification tooling focused on deterministic execution, bounded retries, provenance tracking, and dependency-aware recovery systems.
+
+Primary interests:
+- Computer Vision
+- Systems Engineering
+- Human-centered Interface Design
+- Real-time Infrastructure
+- AI-assisted Developer Tooling
 
 ---
 
-## What I'm building with
+## Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Frontend**
-- React · Next.js · TypeScript
-- Tailwind CSS · Framer Motion
-- Three.js · React Three Fiber
-- Canvas · WebGL
+### Frontend
 
-</td>
-<td valign="top" width="50%">
-
-**Backend & Infra**
-- Node.js · REST APIs · FastAPI
-- PostgreSQL · Prisma · Supabase
-- Docker · Vercel · CI/CD
-- Python · OpenCV · YOLOv8
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- React Three Fiber
+- WebGL
+- Zustand
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
 
-**iOS & Mobile**
-- Swift · SwiftUI · SwiftData
-- ActivityKit · WidgetKit
-- SceneKit · ARKit
-- AVFoundation · CoreML
+<td valign="top" width="33%">
+
+### Backend & Infrastructure
+
+- Node.js
+- FastAPI
+- PostgreSQL
+- Prisma
+- Supabase
+- Docker
+- Redis
+- Vercel
+- GitHub Actions
 
 </td>
-<td valign="top" width="50%">
 
-**CLI, Systems & Tooling**
-- Rust · Cargo · Tokio
-- Python CLI · Typer · argparse
-- Git · GitHub Actions
-- Neovim · VS Code · Linux · macOS
+<td valign="top" width="33%">
+
+### AI, Vision & Systems
+
+- Python
+- OpenCV
+- YOLOv8
+- Rust
+- Tokio
+- Linux
+- CUDA
+- FFmpeg
+- TensorRT
 
 </td>
 </tr>
@@ -61,19 +102,69 @@ Work centers on predictable interfaces, clean abstractions, and systems that hol
 
 </div>
 
-## GitHub Stats
+---
+
+## Featured Projects
+
+### ⚡ khel.ai
+AI-assisted DRS system for box cricket arenas.
+
+**Core areas**
+- Ball trajectory estimation
+- Event reconstruction
+- Real-time decision feedback
+- Video pipeline orchestration
+- Operator-facing control interfaces
+
+---
+
+### 🛠 Autonomous Verification Runtime
+Deterministic execution and recovery tooling for engineering workflows.
+
+**Core areas**
+- Provenance-aware execution
+- Dependency graph tracing
+- Retry scope isolation
+- Workspace verification
+- Autonomous failure recovery
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghaverma&theme=github" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghaverma&theme=github" height="160" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghaverma&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghaverma&layout=compact&hide_border=true&theme=transparent" />
+
+<br/>
+
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghaverma&theme=github_dark" />
 
 </div>
 
 ---
 
+## Philosophy
+
+> Build systems that remain understandable under pressure.  
+> Reduce ambiguity.  
+> Preserve trust through feedback, consistency, and deterministic behavior.
+
+---
+
 <div align="center">
-<sub>Open for full-time roles and meaningful collaborations — <a href="https://raghav-verma.com/contact">let's talk</a></sub>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,rust,postgres,docker,linux,git,github,vscode" />
+
+<br/>
+<br/>
+
+<sub>
+Open to full-time software engineering roles focused on systems, platform engineering, AI infrastructure, computer vision, or high-performance product engineering.
+</sub>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" />
