@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32height=240&section=header&text=RAGHAV%20VERMA&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Raghav+Verma&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Engineer+%C2%B7+Computer+Vision+%C2%B7+Systems+Infrastructure&descAlignY=60&descSize=16" />
 
 <a href="https://raghav-verma.com">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -12,13 +12,12 @@
   <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Raghaverma">
-  <img src="https://img.shields.io/github/followers/Raghaverma?style=for-the-badge&color=18181b&labelColor=18181b" />
+  <img src="https://img.shields.io/github/followers/Raghaverma?style=for-the-badge&color=18181b&labelColor=18181b&label=GitHub" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=3000&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems+that+survive+real-world+usage;Full-stack+engineering+%C2%B7+Computer+Vision+%C2%B7+Infrastructure;Focused+on+predictable+interfaces+and+high-trust+UX" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=2800&color=64748B&center=true&vCenter=true&width=900&lines=Computer+vision+%C2%B7+real-time+inference+%C2%B7+API+reliability;Building+what+products+run+on%2C+not+just+what+users+see;Systems+where+imprecision+has+consequences" />
 
 </div>
 
@@ -26,145 +25,54 @@
 
 ## About
 
-Recently completed MCA at **VIPS, GGSIPU** with a focus on full-stack systems, computer vision, and developer tooling.
+MCA graduate from **VIPS, GGSIPU**. I work across the full stack but spend most of my time at the boundary between software and physical reality — vision pipelines, trajectory modeling, 3D reconstruction, and the reliability infrastructure that makes real-time systems trustworthy under load.
 
-Currently building:
-
-- **[khel.ai](https://khel.ai)**  
-  AI-powered DRS infrastructure for box cricket arenas using real-time vision pipelines, event analysis, and low-latency feedback systems.
-
-- Internal automation and verification tooling focused on deterministic execution, bounded retries, provenance tracking, and dependency-aware recovery systems.
-
-Primary interests:
-- Computer Vision
-- Systems Engineering
-- Human-centered Interface Design
-- Real-time Infrastructure
-- AI-assisted Developer Tooling
+Less interested in building features. More interested in building what features run on.
 
 ---
 
-## Tech Stack
+## What I'm Building
 
-<div align="center">
+### ⚡ [khel.ai](https://khel.ai) — AI-Powered Cricket DRS
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Three.js
-- React Three Fiber
-- WebGL
-- Zustand
-
-</td>
-
-<td valign="top" width="33%">
-
-### Backend & Infrastructure
-
-- Node.js
-- FastAPI
-- PostgreSQL
-- Prisma
-- Supabase
-- Docker
-- Redis
-- Vercel
-- GitHub Actions
-
-</td>
-
-<td valign="top" width="33%">
-
-### AI, Vision & Systems
-
-- Python
-- OpenCV
-- YOLOv8
-- Rust
-- Tokio
-- Linux
-- CUDA
-- FFmpeg
-- TensorRT
-
-</td>
-</tr>
-</table>
-
-</div>
+Real-time decision review infrastructure for box cricket arenas. The core problem: reconstruct ball trajectory from imperfect, consumer-grade camera feeds, under latency constraints, reliably enough that operators trust the output.
 
 ---
 
-## Featured Projects
+### 🛠 Meridian — API Error Normalization SDK
 
-### ⚡ khel.ai
-AI-assisted DRS system for box cricket arenas.
+[`npm install meridianjs`](https://www.npmjs.com/package/meridianjs) · TypeScript · Open Source
 
-**Core areas**
-- Ball trajectory estimation
-- Event reconstruction
-- Real-time decision feedback
-- Video pipeline orchestration
-- Operator-facing control interfaces
+A provider-agnostic SDK for standardizing error handling, retry logic, and fallback behavior across third-party API integrations.
+
+Built because every API integration ends up re-implementing the same retry-on-429, exponential backoff, circuit-breaker logic — differently, inconsistently, untestably. Meridian normalizes that surface once.
 
 ---
 
-### 🛠 Autonomous Verification Runtime
-Deterministic execution and recovery tooling for engineering workflows.
+## Stack
 
-**Core areas**
-- Provenance-aware execution
-- Dependency graph tracing
-- Retry scope isolation
-- Workspace verification
-- Autonomous failure recovery
+**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; React Three Fiber &nbsp;·&nbsp; WebGL / GLSL &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; Zustand
 
----
+**Backend** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Vercel
 
-## GitHub Analytics
+**Vision & AI** &nbsp;·&nbsp; Python &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; YOLOv8 &nbsp;·&nbsp; CUDA &nbsp;·&nbsp; TensorRT &nbsp;·&nbsp; FFmpeg &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; SciPy
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raghaverma&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghaverma&layout=compact&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghaverma&theme=github_dark" />
-
-</div>
+**Systems** &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Tokio &nbsp;·&nbsp; Linux &nbsp;·&nbsp; GitHub Actions
 
 ---
 
 ## Philosophy
 
-> Build systems that remain understandable under pressure.  
-> Reduce ambiguity.  
-> Preserve trust through feedback, consistency, and deterministic behavior.
+> Systems should be understandable under pressure.  
+> Ambiguity compounds. Clarity compounds faster.  
+> Build interfaces that preserve trust: bounded failure, consistent feedback, no surprises.
 
 ---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,rust,postgres,docker,linux,git,github,vscode" />
-
-<br/>
-<br/>
-
-<sub>
-Open to full-time software engineering roles focused on systems, platform engineering, AI infrastructure, computer vision, or high-performance product engineering.
-</sub>
+<sub>Open to full-time roles in systems engineering, AI infrastructure, computer vision, or platform engineering.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=120&section=footer" />
