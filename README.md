@@ -11,10 +11,6 @@
 <a href="mailto:raghav.verma.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Raghaverma">
-  <img src="https://img.shields.io/github/followers/Raghaverma?style=for-the-badge&color=18181b&labelColor=18181b&label=GitHub" />
-</a>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=2800&color=64748B&center=true&vCenter=true&width=900&lines=Computer+vision+%C2%B7+real-time+inference+%C2%B7+API+reliability;Building+what+products+run+on%2C+not+just+what+users+see;Systems+where+imprecision+has+consequences" />
