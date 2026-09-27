@@ -1,74 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=200&section=header&text=Raghav+Verma&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Engineer+%C2%B7+Computer+Vision+%C2%B7+Systems+Infrastructure&descAlignY=60&descSize=16" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=944A32&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Raghav+Verma+%F0%9F%91%8B;I+work+on+human+pose+estimation.;ViTPose+%C2%B7+TensorRT+%C2%B7+real-time+inference." />
 
-<a href="https://raghav-verma.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/raghaverma">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:raghav.verma.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I make pose models like **ViTPose** run fast enough for the real world.
+
+🔬 **Latest:** [vitpose-inference-bench](https://github.com/Raghaverma/vitpose-inference-bench): ViTPose++-L on PyTorch vs ONNX vs TensorRT FP16. **4.08× faster** on an NVIDIA L4.
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,linux,docker,rust,ts,react" />
+
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=2800&color=64748B&center=true&vCenter=true&width=900&lines=Computer+vision+%C2%B7+real-time+inference+%C2%B7+API+reliability;Building+what+products+run+on%2C+not+just+what+users+see;Systems+where+imprecision+has+consequences" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://raghav-verma.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghaverma)
+[![Email](https://img.shields.io/badge/Email-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav.verma.work@gmail.com)
 
 </div>
-
----
-
-## About
-
-MCA graduate from **VIPS, GGSIPU**. I work across the full stack but spend most of my time at the boundary between software and physical reality — vision pipelines, trajectory modeling, 3D reconstruction, and the reliability infrastructure that makes real-time systems trustworthy under load.
-
-Less interested in building features. More interested in building what features run on.
-
----
-
-## What I'm Building
-
-### ⚡ [khel.ai](https://khel.ai) — AI-Powered Cricket DRS
-
-Real-time decision review infrastructure for box cricket arenas. The core problem: reconstruct ball trajectory from imperfect, consumer-grade camera feeds, under latency constraints, reliably enough that operators trust the output.
-
----
-
-### 🛠 Meridian — API Error Normalization SDK
-
-[`npm install meridianjs`](https://www.npmjs.com/package/meridianjs) · TypeScript · Open Source
-
-A provider-agnostic SDK for standardizing error handling, retry logic, and fallback behavior across third-party API integrations.
-
-Built because every API integration ends up re-implementing the same retry-on-429, exponential backoff, circuit-breaker logic — differently, inconsistently, untestably. Meridian normalizes that surface once.
-
----
-
-## Stack
-
-**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; React Three Fiber &nbsp;·&nbsp; WebGL / GLSL &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; Zustand
-
-**Backend** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Vercel
-
-**Vision & AI** &nbsp;·&nbsp; Python &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; YOLOv8 &nbsp;·&nbsp; CUDA &nbsp;·&nbsp; TensorRT &nbsp;·&nbsp; FFmpeg &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; SciPy
-
-**Systems** &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Tokio &nbsp;·&nbsp; Linux &nbsp;·&nbsp; GitHub Actions
-
----
-
-## Philosophy
-
-> Systems should be understandable under pressure.  
-> Ambiguity compounds. Clarity compounds faster.  
-> Build interfaces that preserve trust: bounded failure, consistent feedback, no surprises.
-
----
-
-<div align="center">
-
-<sub>Open to full-time roles in systems engineering, AI infrastructure, computer vision, or platform engineering.</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=944a32&height=120&section=footer" />
